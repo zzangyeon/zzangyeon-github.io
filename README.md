@@ -1,1 +1,1 @@
-# zzangyeon-github.io
+# zzangyeon's devlog
