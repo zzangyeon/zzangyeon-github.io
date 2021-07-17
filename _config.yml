@@ -6,7 +6,8 @@ language: 'en-uk'
 words_per_minute: 200
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /jasper2/
+baseurl: /
+url: "https://zzangyeon.github.io/"
 
 # Website info
 title: Ghost
@@ -67,13 +68,13 @@ feed:
 # or "master" otherwise
 safe: False
 lsi: False
-username: jekyllt
+username: zzangyeon
 repo: jasper2
 branch: master
 relative_source: ../jasper2/
 destination: ../jasper2-pages/
 production_url:  https://jekyllt.github.io/jasper2/
-source_url:  https://github.com/jekyllt/jasper2/
+source_url:  https://github.com/zzangyeon/zzangyeon.github.io/
 
 exclude:
   - assets/css
